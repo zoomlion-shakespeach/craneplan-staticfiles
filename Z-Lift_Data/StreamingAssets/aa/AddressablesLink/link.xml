@@ -1,0 +1,336 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AngleUICtr" preserve="all" />
+    <type fullname="AutoMeasureLine" preserve="all" />
+    <type fullname="AxisHandler" preserve="all" />
+    <type fullname="BaseModelExtra" preserve="all" />
+    <type fullname="BaseModelSetCtrl" preserve="all" />
+    <type fullname="CADDownloadCrtl" preserve="all" />
+    <type fullname="CaptureDialog" preserve="all" />
+    <type fullname="CatchPoints" preserve="all" />
+    <type fullname="CatchPointUIPrefab" preserve="all" />
+    <type fullname="ColliderListener" preserve="all" />
+    <type fullname="ColorArea3DUICtr" preserve="all" />
+    <type fullname="ColorArea3DUISign" preserve="all" />
+    <type fullname="ColorInput" preserve="all" />
+    <type fullname="ColorPanel" preserve="all" />
+    <type fullname="ColorPickArea" preserve="all" />
+    <type fullname="ConfirmDialog" preserve="all" />
+    <type fullname="ControlHandlerDataView" preserve="all" />
+    <type fullname="CraneMenus" preserve="all" />
+    <type fullname="CraneModelSetCtrl" preserve="all" />
+    <type fullname="DataTreeItemSign" preserve="all" />
+    <type fullname="DcPartInfoView" preserve="all" />
+    <type fullname="DeflectionExcuteL" preserve="all" />
+    <type fullname="DimensionPoint" preserve="all" />
+    <type fullname="DisCaculatorContentView" preserve="all" />
+    <type fullname="DisCaculatorEleControlView" preserve="all" />
+    <type fullname="DisCaculatorItemView" preserve="all" />
+    <type fullname="DisCaculatorTitlebar" preserve="all" />
+    <type fullname="DistanceCaculator" preserve="all" />
+    <type fullname="DoubleCraneObjectEditUI" preserve="all" />
+    <type fullname="DoubleLiftModel" preserve="all" />
+    <type fullname="DragUI" preserve="all" />
+    <type fullname="DropdownCustom" preserve="all" />
+    <type fullname="DropdownEx" preserve="all" />
+    <type fullname="DropdownHelper" preserve="all" />
+    <type fullname="DropdownLan" preserve="all" />
+    <type fullname="DvDropdownPrefab" preserve="all" />
+    <type fullname="DvInputFieldPrefab" preserve="all" />
+    <type fullname="DvRowPrefab" preserve="all" />
+    <type fullname="DvSliderPrefab" preserve="all" />
+    <type fullname="DvTogglePrefab" preserve="all" />
+    <type fullname="DvVectorPrefab" preserve="all" />
+    <type fullname="EmulationPanelMgr" preserve="all" />
+    <type fullname="FollowMainCam" preserve="all" />
+    <type fullname="FontSizeDropdownEx" preserve="all" />
+    <type fullname="HeightSyncFL" preserve="all" />
+    <type fullname="HierarchyItemPrefab" preserve="all" />
+    <type fullname="HierarchyView" preserve="all" />
+    <type fullname="HoverMenu" preserve="all" />
+    <type fullname="HoverView" preserve="all" />
+    <type fullname="ImagePropertyView" preserve="all" />
+    <type fullname="ImageSettingPanel" preserve="all" />
+    <type fullname="ImportImageDialog" preserve="all" />
+    <type fullname="InputDialog" preserve="all" />
+    <type fullname="InputFieldCustomInfo" preserve="all" />
+    <type fullname="InputFieldPrefab" preserve="all" />
+    <type fullname="InputItemPrefab" preserve="all" />
+    <type fullname="InputTextPrefab" preserve="all" />
+    <type fullname="InterfaceUsageDemo" preserve="all" />
+    <type fullname="LayoutChangeListener" preserve="all" />
+    <type fullname="LayoutGroupWithChild" preserve="all" />
+    <type fullname="LDDImageCtrl" preserve="all" />
+    <type fullname="LeftLiftModeManageUI" preserve="all" />
+    <type fullname="LinkRowsPrefab" preserve="all" />
+    <type fullname="LinkTablePrefab" preserve="all" />
+    <type fullname="LoadingDialog" preserve="all" />
+    <type fullname="LoadParamCtrl" preserve="all" />
+    <type fullname="LoadPrefab" preserve="all" />
+    <type fullname="LookAtCamera" preserve="all" />
+    <type fullname="LoopScrollView" preserve="all" />
+    <type fullname="MachineDataSV" preserve="all" />
+    <type fullname="MeasureAxis" preserve="all" />
+    <type fullname="MeasureCatchPoint" preserve="all" />
+    <type fullname="ModelBase" preserve="all" />
+    <type fullname="ModelItem" preserve="all" />
+    <type fullname="ModelMenus" preserve="all" />
+    <type fullname="ModelPopwindowCtrl" preserve="all" />
+    <type fullname="ModelSetModule" preserve="all" />
+    <type fullname="MouseInputHandler" preserve="all" />
+    <type fullname="MouseMenu" preserve="all" />
+    <type fullname="MouseMenuElement" preserve="all" />
+    <type fullname="MouseMenuItem" preserve="all" />
+    <type fullname="MouseMenuLayout" preserve="all" />
+    <type fullname="MouseOperate" preserve="all" />
+    <type fullname="MultiModelIconPrefab" preserve="all" />
+    <type fullname="ObjectMRS" preserve="all" />
+    <type fullname="OverdueHints" preserve="all" />
+    <type fullname="PageHeaderUI" preserve="all" />
+    <type fullname="PageMenus" preserve="all" />
+    <type fullname="PageRootPanel" preserve="all" />
+    <type fullname="PgToggle" preserve="all" />
+    <type fullname="PostOutline" preserve="all" />
+    <type fullname="PrefabNodeInfo" preserve="all" />
+    <type fullname="ProgressDialog" preserve="all" />
+    <type fullname="ProgressPrefab" preserve="all" />
+    <type fullname="ProjectItem" preserve="all" />
+    <type fullname="RangingCatchPoint" preserve="all" />
+    <type fullname="RangingLine" preserve="all" />
+    <type fullname="RangingManager" preserve="all" />
+    <type fullname="RangingPanel" preserve="all" />
+    <type fullname="RecWorkCondDataItemHover" preserve="all" />
+    <type fullname="RecWorkCondStep1Ctrl" preserve="all" />
+    <type fullname="RecWorkCondStep1ImgCtrl" preserve="all" />
+    <type fullname="RecWorkCondStep2Ctrl" preserve="all" />
+    <type fullname="RecWorkCondStep3Ctrl" preserve="all" />
+    <type fullname="RecWorkCondWindowModule" preserve="all" />
+    <type fullname="ReportCraneCapture" preserve="all" />
+    <type fullname="ReportImagePrefab" preserve="all" />
+    <type fullname="ReportLDDCapture" preserve="all" />
+    <type fullname="ReportMoudlePrefab" preserve="all" />
+    <type fullname="ReportPanel" preserve="all" />
+    <type fullname="ReportQCDCapture" preserve="all" />
+    <type fullname="ReportTablePrefab" preserve="all" />
+    <type fullname="ReqArgItem" preserve="all" />
+    <type fullname="RopeControl" preserve="all" />
+    <type fullname="RopeTying" preserve="all" />
+    <type fullname="RpCapturePrefab" preserve="all" />
+    <type fullname="RpRightMenus" preserve="all" />
+    <type fullname="RpSelection" preserve="all" />
+    <type fullname="RpStepChartsPrefab" preserve="all" />
+    <type fullname="RpStepPrefab" preserve="all" />
+    <type fullname="RpTitlePrefab" preserve="all" />
+    <type fullname="ScenePanelPrefab" preserve="all" />
+    <type fullname="ScreenShotUI" preserve="all" />
+    <type fullname="SelectAllToggle" preserve="all" />
+    <type fullname="SelectionsBoundsView" preserve="all" />
+    <type fullname="SelectLabelCtrl" preserve="all" />
+    <type fullname="SequenceCtrl" preserve="all" />
+    <type fullname="SimulationCameraController" preserve="all" />
+    <type fullname="SimulationPlane" preserve="all" />
+    <type fullname="SingleCraneObjectEditUI" preserve="all" />
+    <type fullname="SlingMenus" preserve="all" />
+    <type fullname="SlingTypeI1" preserve="all" />
+    <type fullname="SlingTypeI2" preserve="all" />
+    <type fullname="SlingTypeI3" preserve="all" />
+    <type fullname="SlingTypeI4" preserve="all" />
+    <type fullname="SlingTypeI5" preserve="all" />
+    <type fullname="SlingTypeI6" preserve="all" />
+    <type fullname="SlingTypeII1" preserve="all" />
+    <type fullname="SlingTypeII2" preserve="all" />
+    <type fullname="SlingTypeII3" preserve="all" />
+    <type fullname="SlingTypeII4" preserve="all" />
+    <type fullname="StepInfoView" preserve="all" />
+    <type fullname="StepItemPrefab" preserve="all" />
+    <type fullname="SuperText" preserve="all" />
+    <type fullname="TableRowPrefab" preserve="all" />
+    <type fullname="TextAnimation" preserve="all" />
+    <type fullname="TextLan" preserve="all" />
+    <type fullname="TextLanDemo" preserve="all" />
+    <type fullname="TextSettingPanel" preserve="all" />
+    <type fullname="TextUnit" preserve="all" />
+    <type fullname="TigAnimation" preserve="all" />
+    <type fullname="TipsDialog" preserve="all" />
+    <type fullname="TipsPrefab" preserve="all" />
+    <type fullname="ToggleEx" preserve="all" />
+    <type fullname="ToggleGroupEx" preserve="all" />
+    <type fullname="ToggleLink" preserve="all" />
+    <type fullname="TrapezoidImage" preserve="all" />
+    <type fullname="TriggerCheck" preserve="all" />
+    <type fullname="UI3DCtr" preserve="all" />
+    <type fullname="UI3DCtrManager" preserve="all" />
+    <type fullname="UI3DDoubleLiftCtl" preserve="all" />
+    <type fullname="UICreateProjectPanelWnd" preserve="all" />
+    <type fullname="UIDataTree" preserve="all" />
+    <type fullname="UIEditorProjectPanelWnd" preserve="all" />
+    <type fullname="UIHelpPanelWnd" preserve="all" />
+    <type fullname="UIHomePanelWnd" preserve="all" />
+    <type fullname="UIImportProjectPanelWnd" preserve="all" />
+    <type fullname="UILoginPanelWnd" preserve="all" />
+    <type fullname="UIOfflinePanelWnd" preserve="all" />
+    <type fullname="UIProjectManagerPanelWnd" preserve="all" />
+    <type fullname="UIRigSetWnd" preserve="all" />
+    <type fullname="UISettingPanelWnd" preserve="all" />
+    <type fullname="UITitleBarPanelWnd" preserve="all" />
+    <type fullname="UITransitionalPanelWnd" preserve="all" />
+    <type fullname="UIUserPanelWnd" preserve="all" />
+    <type fullname="UnityEngine.UI.Empty4Raycast" preserve="all" />
+    <type fullname="UnityEngine.UI.ImportImageScrollRect" preserve="all" />
+    <type fullname="VehicleInverseDriveCtrl" preserve="all" />
+    <type fullname="WordDemo" preserve="all" />
+    <type fullname="WorkConditionMenuCtrl" preserve="all" />
+    <type fullname="WorkCondPopwindModule" preserve="all" />
+    <type fullname="WorkCondStep3ImgCtrl" preserve="all" />
+    <type fullname="ZhuFuGouZuoYeModelCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.BaseModel" preserve="all" />
+    <type fullname="Zoomlion.Machine.ChaoQiCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.ChaoQiPeiZhongCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.CraneManager" preserve="all" />
+    <type fullname="Zoomlion.Machine.DiaoBiArgs" preserve="all" />
+    <type fullname="Zoomlion.Machine.EmulationInterfaceCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.GangSiShengLink" preserve="all" />
+    <type fullname="Zoomlion.Machine.LaBanLink" preserve="all" />
+    <type fullname="Zoomlion.Machine.LegCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.TuiLiJiGouCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.VehicleAssembleCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.VehicleDriveCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.VehicleLaBanCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.VehiclePoleAngleCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.VehicleYeYaGangCtrl" preserve="all" />
+    <type fullname="Zoomlion.Machine.YeYaGangLink" preserve="all" />
+    <type fullname="Zoomlion.Map.AddressResultPrefab" preserve="all" />
+    <type fullname="Zoomlion.Map.ImportMapDialog" preserve="all" />
+    <type fullname="Zoomlion.Map.MapTilePrefab" preserve="all" />
+    <type fullname="Zoomlion.Map.SceneMapTilePrefab" preserve="all" />
+    <type fullname="Zoomlion.Network.Helper" preserve="all" />
+    <type fullname="Zoomlion.UIFramework.Calendar" preserve="all" />
+    <type fullname="Zoomlion.Data.Vector3s" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.BaseModelData" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.HandlerPorpertyFlags" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.ModelType" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.ModelTypeLevel2" preserve="nothing" serialized="true" />
+    <type fullname="InputAxisFlag" preserve="nothing" serialized="true" />
+    <type fullname="MouseMenuData" preserve="nothing" serialized="true" />
+    <type fullname="NodeInfoStruct" preserve="nothing" serialized="true" />
+    <type fullname="NodeType" preserve="nothing" serialized="true" />
+    <type fullname="OptionType" preserve="nothing" serialized="true" />
+    <type fullname="RpCapturePrefab/RootFlag" preserve="nothing" serialized="true" />
+    <type fullname="Subplate" preserve="nothing" serialized="true" />
+    <type fullname="SubplateParam" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ImportImageScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="WorkCondPopwindModule/WorkCondPicture" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.CraneLevel" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.FixedData" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.InterfaceData" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.UnfixedData" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Machine.VehicleData" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Network.ResQueryInitialWorkCond" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Network.ResQueryWorkCondParamRange" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Network.ResRecWorkCond" preserve="nothing" serialized="true" />
+    <type fullname="DateTimeEvent" preserve="nothing" serialized="true" />
+    <type fullname="IModel" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Network.QueryMemberInfoDto" preserve="nothing" serialized="true" />
+    <type fullname="Zoomlion.Network.ResQueryWorkCond" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.Util.SerializedType" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animations.ParentConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.PositionConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.RotationConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.ScaleConstraint" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+    <type fullname="UnityEngine.TextMesh" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Dropdown" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+</linker>
