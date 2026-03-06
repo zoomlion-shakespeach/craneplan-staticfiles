@@ -28,7 +28,7 @@ jobs:
           # 源仓库（GitHub）地址（SSH 格式）
           source-repo: git@github.com:zoomlion-shakespeach/craneplan-staticfiles.git
           # 目标仓库（Gitee）地址（SSH 格式）
-          destination-repo: git@gitee.com:shakespeach/craneplan-staticfiles-beta.git
+          destination-repo: git@gitee.com:shakespeach/craneplan-staticfiles.git
           
 # name: Sync GitHub to Gitee (Force Overwrite, No History)
 
